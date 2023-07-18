@@ -1,2 +1,2 @@
 # Webengineering01
-Demos
+Demo: Simple static html text page
